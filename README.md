@@ -11,6 +11,4 @@ This project **analyzes S&P 500 stocks** using **market capitalization, fundamen
 ✅ **Visualizes stock trends using Python (Matplotlib, Seaborn)**  
 ✅ **Provides insights for investment decision-making**
 
-# 📈 Quantitative Stock Screening for S&P 500  
-
 📌 [Click here to view the full analysis (HTML)](https://github.com/debbymerci/Quantitative-Stock-Screening-for-S-P-500/blob/main/Test_Stocks_US.html)
